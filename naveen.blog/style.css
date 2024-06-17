@@ -1,0 +1,79 @@
+.topbar{
+    background-color: thistle    ;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 30px ;
+    
+
+}
+.contact{
+    font-size: medium;
+    color: black;
+    text-decoration: none;
+    
+}
+.menus{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    column-gap: 30px;
+    margin-top: 20px;
+}
+.header{
+    background-color: aliceblue;
+    padding: 5px 10px ;
+    
+
+
+}
+.header img{
+    width: 100px;
+    height: auto;
+}
+.caroselimg{
+    height: 600px;
+    object-fit: cover;
+   
+}
+.abt{
+    display: flex;
+    justify-content: center;
+
+}
+.about{
+    display: flex;
+    justify-content: space-between;
+}
+.para{
+    text-align: justify;
+}
+.card{
+    justify-content: space-between;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+}
+.men{
+    display: flex;
+    justify-content: center;
+}
+.menubox{
+    height: 100px;
+    object-fit: cover;
+}
+.card img{
+    height: 500px;
+    object-fit: cover;
+}
+.text{
+    text-align: justify;
+}
+.form{
+    padding: 30px;
+    background-color: blanchedalmond !important; 
+}
+.ato{
+    text-decoration: none;
+    color: aliceblue;
+}
